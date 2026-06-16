@@ -1,4 +1,4 @@
-# Rin Satsuki
+# Rin Satsuki Redux
 
 This mod adds a new lightweight QoL service in the form of the forgotten (scrapped) heroine from EoSD: Rin Satsuki!
 
