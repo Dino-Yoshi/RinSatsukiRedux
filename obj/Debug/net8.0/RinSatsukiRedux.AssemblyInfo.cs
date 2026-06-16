@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RinSatsukiRedux")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fdcb78313bcb615c3485c8f29eeb16223e9ad7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RinSatsukiRedux")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RinSatsukiRedux")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
