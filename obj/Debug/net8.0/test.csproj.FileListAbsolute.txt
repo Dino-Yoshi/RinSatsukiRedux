@@ -1,0 +1,12 @@
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/bin/Debug/net8.0/test.deps.json
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/bin/Debug/net8.0/test.dll
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/bin/Debug/net8.0/test.pdb
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/obj/Debug/net8.0/test.csproj.AssemblyReference.cache
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/obj/Debug/net8.0/test.dll
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/obj/Debug/net8.0/refint/test.dll
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/obj/Debug/net8.0/test.pdb
+/home/zero/.local/share/Terraria/tModLoader/ModSources/test/obj/Debug/net8.0/ref/test.dll
