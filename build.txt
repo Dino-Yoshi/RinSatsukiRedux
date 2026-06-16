@@ -1,0 +1,3 @@
+displayName = RinSatsukiRedux
+author = _DinoYoshi
+version = 0.1

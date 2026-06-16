@@ -1,0 +1,29 @@
+Kirin: {
+	Name: Rin Satsuki
+
+	Chat: {
+		EasterEgg: 流れてく　時の中ででも　気だるさが　ほらグルグル廻って 私から　離れる心も　見えないわ　そう知らない?
+		BloodMoon1: A red moon? You haven't seen a Scarlet around, have you?
+		BloodMoon2: This night seems to have unsettled a few of your residents. Me? Kirins aren't affected by celestial phenomena such as this.
+		Normal1: If you require herbal remedies, I have many ingredients at my disposal.
+		Normal2: I wonder how Marisa and Reimu are doing...
+		Nurse: "{0} provides very budget services... did you know she won't even heal you in some circumstances?"
+		Dryad: That {0}... she had really consider taking up a garden. Perhaps she would see more sales with herbs than planter boxes.
+		Night1: Back at Gensokyo, the nights were always so peaceful... depending on where you were, at least.
+		Night2: Come to think of it- I hardly see you sleep at all- Are you a mythological creature too?
+		Jungle: Would you like to come see my garden? The rich environment is surprisingly suitable for all of the plants.
+		Party: In times like these, I would often frequent the village and head straight for the candy stalls. Does this place have them?
+		Hardmode1: A strange individual shared their moss with me before leaving through a gray colored door. I don't grow moss...
+		MoonLordDefeated1: Perhaps its time for me to return to Gensokyo soon.
+		MoonLordDefeated2: With the fall of such a powerful being by your hands... do you think you would mind coming to Gensokyo sometime?
+	}
+
+	HealButton: Heal
+	HealButtonWithCost: Heal ({0})
+	didHeal: Here! Try this new medicinal herb mixture I made. How is it?
+	failedHeal: Are you currently injured? It doesn't seem like it...
+	brokeAssMf: Oh my, it seems you're a few coins short. No worries. I'll be here until you can afford it!
+
+	TownNPCMood: {
+	}
+}
